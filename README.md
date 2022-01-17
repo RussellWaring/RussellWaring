@@ -17,6 +17,6 @@ Programming Languages
 <br />
 <br />
 
-<a>![c-sharp-logo](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)</a>
+<a>![c-sharp-logo](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png =22x)</a>
 
 [linkedin]: https://www.linkedin.com/in/russell-waring-476372a4/
