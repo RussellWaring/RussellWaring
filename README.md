@@ -4,9 +4,8 @@
 - Looking for a coop position for summer 2022
 
 ## About me
-<hr />
-- Full-time student, studying Computer Programming and Analysis @ Durham College, Oshawa ON <br />
-- Part-time employee <br />
+- Full-time student, studying Computer Programming and Analysis @ Durham College, Oshawa ON
+- Part-time employee
 - Looking for a coop position for summer 2022
 
 ### I can be found here:
