@@ -23,8 +23,6 @@
     <img alt="VS 2019 logo" title="Visual Studio 2019" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
 </p>
 
-<br />
-
 ### What I am beginning to learn about:
 <p>
     <img alt="JavaScript logo" title="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"/>
