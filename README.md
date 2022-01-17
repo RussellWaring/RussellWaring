@@ -1,7 +1,4 @@
 ### Hey there, I'm Russell 
-- Full-time student
-- Part-time employee
-- Looking for a coop position for summer 2022
 
 ## About me
 - Full-time student, studying Computer Programming and Analysis @ Durham College, Oshawa ON
