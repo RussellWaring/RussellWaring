@@ -1,9 +1,8 @@
 ### Hey there, I'm Russell 
 
 ## About me
-- Full-time student, studying Computer Programming and Analysis @ Durham College, Oshawa ON
-- Part-time employee
-- Looking for a coop position for summer 2022
+- Studying Computer Programming and Analysis @ Durham College, Oshawa ON
+- Working as a Junior Technical Analyst at MTO for summer 2022
 
 ### I can be found here:
 
