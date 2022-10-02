@@ -2,7 +2,6 @@
 
 ## About me
 - Studying Computer Programming and Analysis @ Durham College, Oshawa ON
-- Working as a Junior Technical Analyst at MTO for summer 2022
 
 ### I can be found here:
 
