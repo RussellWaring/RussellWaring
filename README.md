@@ -21,6 +21,8 @@
     <img alt="JavaScript logo" title="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="PHP logo" title="PHP" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="VS 2019 logo" title="Visual Studio 2019" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="VS 2019 logo" title="Visual Studio 2019" width="22px" src="https://www.svgrepo.com/show/255832/sql.svg"/>
 </p>
 
 <br />
