@@ -20,11 +20,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python logo" title="Python" width="22px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="HTML logo" title="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"/> 
+    <img alt="HTML logo" title="HTML" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="CSS logo" title="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="JavaScript logo" title="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png"/>
+    <img alt="JavaScript logo" title="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="PHP logo" title="PHP" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
