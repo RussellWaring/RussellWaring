@@ -1,6 +1,7 @@
 ### Hey there, I'm Russell 
 
 ## About me
+- Urban Forestry Technician Diploma, Fleming College
 - Studying Computer Programming and Analysis @ Durham College, Oshawa ON
 
 ### I can be found here:
