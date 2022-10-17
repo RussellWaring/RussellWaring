@@ -21,6 +21,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python logo" title="Python" width="22px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Ruby logo" title="Ruby" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Ruby on Rails logo" title="Ruby on Rails" width="22px" src="https://www.svgrepo.com/show/376345/rails.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Laravel logo" title="Laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="HTML logo" title="HTML" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="CSS logo" title="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> 
