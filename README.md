@@ -45,6 +45,12 @@
 </p>
 
 <br />
+
+### A GIF display of my exploration in game development
+
+![](https://github.com/RussellWaring/GIFS/blob/main/2dgame.gif)
+
+<br />
 <br />
 
 [linkedin]: https://www.linkedin.com/in/russell-waring-476372a4/
