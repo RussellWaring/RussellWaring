@@ -46,7 +46,7 @@
 
 <br />
 
-### A GIF display of my exploration in game development
+### Exploring simple game development:
 
 ![](https://github.com/RussellWaring/GIFS/blob/main/2dgame.gif)
 
