@@ -21,7 +21,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="PHP logo" title="PHP" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="SQL logo" title="SQL" width="22px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"/>
+    <img alt="SQL logo" title="SQL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C sharp logo" title="C#" width="22px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
