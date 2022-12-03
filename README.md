@@ -42,6 +42,7 @@
 </p>
 <br />
  ### Frameworks:
+ <p>
     <img alt="Ruby on Rails logo" title="Ruby on Rails" width="22px" src="https://www.svgrepo.com/show/376345/rails.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Laravel logo" title="Laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
