@@ -19,7 +19,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="TypeScript logo" title="TypeScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="PHP logo" title="PHP" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"/>
+    <img alt="PHP logo" title="PHP" width="22px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="SQL logo" title="SQL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
