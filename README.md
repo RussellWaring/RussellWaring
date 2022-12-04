@@ -54,6 +54,18 @@
     <img alt="Flutter logo" title="Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
 </p>
 
+### Other Tools:
+<p>
+    <img alt="MySQL logo" title="MySQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Ruby on Rails logo" title="PostgreSQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="SSMS" title="Microsoft SQL Server Management Studio" width="22px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="MongoDB logo" title="MongoDB" width="22px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;    
+</p>
+
 ### Exploring simple game development:
 
 ![](https://github.com/RussellWaring/GIFS/blob/main/2dgame.gif)
