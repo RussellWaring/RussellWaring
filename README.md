@@ -43,7 +43,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Angular logo" title="Angular" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="VS 2019 logo" title="Visual Studio 2019" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
+    <img alt="VS 2019 logo" title=".NET" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Spring Framework logo" title="Spring Framework" width="22px" src="https://www.clipartmax.com/png/middle/30-300342_spring-data-team-spring-framework-icon.png"/>
 </p>
 
 ### Exploring simple game development:
