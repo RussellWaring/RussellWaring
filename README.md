@@ -32,6 +32,8 @@
     <img alt="Python logo" title="Python" width="22px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Ruby logo" title="Ruby" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="Dart logo" title="Dart Programming Language" width="22px" src="https://cdn.worldvectorlogo.com/logos/dart.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
@@ -46,6 +48,8 @@
     <img alt="VS 2019 logo" title=".NET" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Spring Framework logo" title="Spring Framework" width="22px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Flutter logo" title="Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
 </p>
 
 ### Exploring simple game development:
