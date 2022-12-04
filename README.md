@@ -35,6 +35,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Dart logo" title="Dart Programming Language" width="22px" src="https://cdn.worldvectorlogo.com/logos/dart.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="COBOL logo" title="COBOL" width="22px" src="https://static.javatpoint.com/tutorial/cobol/images/cobol-tutorial.png"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
  ### Frameworks:
