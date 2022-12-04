@@ -39,7 +39,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- ### Frameworks:
+ ### Frameworks & Other Tools:
  <p>
     <img alt="Ruby on Rails logo" title="Ruby on Rails" width="22px" src="https://www.svgrepo.com/show/376345/rails.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -52,10 +52,7 @@
     <img alt="Spring Framework logo" title="Spring Framework" width="22px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Flutter logo" title="Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
-</p>
-
-### Other Tools:
-<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="MySQL logo" title="MySQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Ruby on Rails logo" title="PostgreSQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
