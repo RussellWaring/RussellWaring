@@ -53,6 +53,8 @@
     <img alt="Spring Framework logo" title="Spring Framework" width="22px" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Flutter logo" title="Flutter" width="22px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
+    &nbsp;&nbsp;&nbsp;&nbsp; 
+    <img alt="Firebase logo" title="Firebase" width="22px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>    
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="MySQL logo" title="MySQL" width="22px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
