@@ -1,8 +1,8 @@
 ### Hey there, I'm Russell 
 
 ## About me
-- Currently seeking employment as a software developer or programmer analyst!
-- Studying Computer Programming and Analysis @ Durham College, Oshawa ON
+- Pursuing opportunity in software development!
+- Computer Programming and Analysis Advanced Diploma, Durham College
 - Urban Forestry Technician Diploma, Fleming College
 
 ### I can be found here:
