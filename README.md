@@ -4,8 +4,7 @@
 - Pursuing opportunity in software development!
 - Computer Programming and Analysis Advanced Diploma, Durham College
 - Urban Forestry Technician Diploma, Fleming College
-
-[My Resume](https://russellwaring.github.io/resume/)
+- [My Resume](https://russellwaring.github.io/resume/)
 
 ### I can be found here:
 
