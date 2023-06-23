@@ -5,6 +5,8 @@
 - Computer Programming and Analysis Advanced Diploma, Durham College
 - Urban Forestry Technician Diploma, Fleming College
 
+[My Resume](https://russellwaring.github.io/resume/)
+
 ### I can be found here:
 
 [<img align="left" alt="Russell Waring | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
