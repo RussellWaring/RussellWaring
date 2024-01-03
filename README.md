@@ -67,6 +67,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
 
+### Dated visual of "BirdNerd" mobile app:
+
+![](https://github.com/RussellWaring/GIFS/blob/main/birdnerd-vid.gif)
+
 ### Exploring simple game development:
 
 ![](https://github.com/RussellWaring/GIFS/blob/main/2dgame.gif)
