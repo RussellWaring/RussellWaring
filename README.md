@@ -37,7 +37,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Dart logo" title="Dart Programming Language" width="40px" src="https://cdn.worldvectorlogo.com/logos/dart.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="COBOL logo" title="COBOL" width="40px" src="https://static.javatpoint.com/tutorial/cobol/images/cobol-tutorial.png"/>
+    <img alt="COBOL logo" title="COBOL" width="45px" src="https://www.svgrepo.com/show/373510/cobol.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
