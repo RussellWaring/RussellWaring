@@ -13,9 +13,9 @@
 
 ### Languages:
 <p>
-    <img alt="HTML logo" title="HTML" width="28px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg"/> 
+    <img alt="HTML logo" title="HTML" width="28px" src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="CSS logo" title="CSS" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> 
+    <img alt="CSS logo" title="CSS" width="22px" src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="JavaScript logo" title="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C plus plus logo" title="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Java logo" title="Java" width="22px" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/> 
+    <img alt="Java logo" title="Java" width="22px" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python logo" title="Python" width="22px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
