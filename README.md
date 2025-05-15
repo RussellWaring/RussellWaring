@@ -57,7 +57,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Flutter logo" title="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="Firebase logo" title="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>    
+    <img alt="Firebase logo" title="Firebase" width="40px" src="https://www.svgrepo.com/show/353735/firebase.svg"/>    
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="MySQL logo" title="MySQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
