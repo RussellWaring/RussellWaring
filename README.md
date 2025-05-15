@@ -59,11 +59,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Firebase logo" title="Firebase" width="40px" src="https://www.svgrepo.com/show/353735/firebase.svg"/>    
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="MySQL logo" title="MySQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"/>
+    <img alt="MySQL logo" title="MySQL" width="40px" src="https://www.svgrepo.com/show/355133/mysql.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Ruby on Rails logo" title="PostgreSQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="SSMS" title="Microsoft SQL Server Management Studio" width="40px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"/>
+    <img alt="SSMS" title="Microsoft SQL Server Management Studio" width="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="MongoDB logo" title="MongoDB" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;    
