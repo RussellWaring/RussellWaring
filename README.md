@@ -1,15 +1,10 @@
 ### Hey there, I'm Russell 
 
-## About me
+# About me
 - Technical Analyst with a passion for software development!
 - Computer Programming and Analysis Advanced Diploma, Durham College (Honours)
 - Urban Forestry Technician Diploma, Fleming College
 - [My Resume](https://russellwaring.github.io/resume/)
-
-### 🔍 I can be found here:
-
-[<img align="left" alt="Russell Waring | LinkedIn" title="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img alt="Russell Waring | Instagram" width="40px" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622"/>][instagram]
 
 ## 📖 Languages:
 <p>
@@ -41,7 +36,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- ### 🛠 Frameworks & Other Tools:
+ ## 🛠 Frameworks & Other Tools:
  <p>
      <img alt="Android Studio logo" title="Android Studio" width=40px" src="https://camo.githubusercontent.com/e70b799e72de2cbcbdfc253cc4dfd3fb42eb4923972611b9e68f206b4bdff88f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f616e64726f696473747564696f2f616e64726f696473747564696f2d6f726967696e616c2e737667"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,6 +63,11 @@
     <img alt="MongoDB logo" title="MongoDB" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;    
 </p>
+
+## 🔍 I can be found here:
+
+[<img align="left" alt="Russell Waring | LinkedIn" title="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img alt="Russell Waring | Instagram" width="40px" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622"/>][instagram]
 
 ### Dated visual of "BirdNerd" mobile app:
 
