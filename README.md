@@ -27,7 +27,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C sharp logo" title="C#" width="40px" src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C plus plus logo" title="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1840px-ISO_C%2B%2B_Logo.svg.png"/> 
+    <img alt="C plus plus logo" title="C++" width="40px" src="https://camo.githubusercontent.com/cd7e24b6d077658f419aaa173b20cde5cadb5fe3ed659fb0848b95e4037a46b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Java logo" title="Java" width="40px" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
