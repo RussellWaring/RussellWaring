@@ -21,7 +21,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="TypeScript logo" title="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="PHP logo" title="PHP" width="50px" src="https://www.svgrepo.com/show/452088/php.svg"/>
+    <img alt="PHP logo" title="PHP" width="45px" src="https://www.svgrepo.com/show/452088/php.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="SQL logo" title="SQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
