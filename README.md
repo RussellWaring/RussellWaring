@@ -25,7 +25,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="SQL logo" title="SQL" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="C sharp logo" title="C#" width="28px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> 
+    <img alt="C sharp logo" title="C#" width="28px" src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C plus plus logo" title="C++" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1828px-ISO_C%2B%2B_Logo.svg.png"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
