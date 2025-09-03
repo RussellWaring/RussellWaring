@@ -4,7 +4,7 @@
 - Technical Analyst with a passion for software development!
 - Computer Programming and Analysis Advanced Diploma, Durham College (Honours)
 - Urban Forestry Technician Diploma, Fleming College
-- [My Resume](https://russellwaring.github.io/resume/)
+- [My Resume](https://waring.dev)
 
 ## 📖 Languages:
 <p>
