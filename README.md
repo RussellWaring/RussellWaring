@@ -44,7 +44,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Laravel logo" title="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Angular logo" title="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"/>
+    <img alt="Angular logo" title="Angular" width="40px" src="https://images.seeklogo.com/logo-png/33/2/angular-logo-png_seeklogo-331629.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="VS 2019 logo" title=".NET" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
