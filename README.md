@@ -24,7 +24,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C plus plus logo" title="C++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Java logo" title="Java" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"/> 
+    <img alt="Java logo" title="Java" width="50px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python logo" title="Python" width="40px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,9 +46,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Angular logo" title="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deprecated_Angular_logo.svg/2048px-Deprecated_Angular_logo.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="VS Enterprise" title=".NET" width="40px" src="https://en.wikipedia.org/wiki/Visual_Studio#/media/File:Visual_Studio_Icon_2026.svg"/>
+    <img alt="VS Enterprise" title=".NET" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Visual_Studio_Icon_2026.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-    <img alt="Spring Framework logo" title="Spring Framework" width="40px" src="https://en.wikipedia.org/wiki/Spring_Framework#/media/File:Spring_Framework_Logo_2018.svg"/>
+    <img alt="Spring Framework logo" title="Spring Framework" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="Flutter logo" title="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
