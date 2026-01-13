@@ -38,7 +38,7 @@
 
  ## 🛠 Frameworks & Other Tools:
  <p>
-     <img alt="Android Studio logo" title="Android Studio" width=40px" src="https://en.wikipedia.org/wiki/Android_Studio#/media/File:Android_Studio_icon_(2023).svg"/>
+     <img alt="Android Studio logo" title="Android Studio" width=40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/960px-Android_Studio_icon_%282023%29.svg.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Ruby on Rails logo" title="Ruby on Rails" width="40px" src="https://www.svgrepo.com/show/376345/rails.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
