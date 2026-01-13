@@ -24,7 +24,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="C plus plus logo" title="C++" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img alt="Java logo" title="Java" width="50px" src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg"/> 
+    <img alt="Java logo" title="Java" width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"/> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="Python logo" title="Python" width="40px" src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-5.png"/>
     &nbsp;&nbsp;&nbsp;&nbsp;
