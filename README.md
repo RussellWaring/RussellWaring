@@ -61,7 +61,8 @@
     <img alt="SSMS" title="Microsoft SQL Server Management Studio" width="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
     &nbsp;&nbsp;&nbsp;&nbsp; 
     <img alt="MongoDB logo" title="MongoDB" width="40px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;    
+    &nbsp;&nbsp;&nbsp;&nbsp;  
+    <img alt="React logo" title="MongoDB" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 </p>
 
 ## 🔍 I can be found here:
