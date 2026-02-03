@@ -70,16 +70,5 @@
 [<img align="left" alt="Russell Waring | LinkedIn" title="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img alt="Russell Waring | Instagram" width="40px" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png?20210403190622"/>][instagram]
 
-### Dated visual of "BirdNerd" mobile app:
-
-![](https://github.com/RussellWaring/GIFS/blob/main/birdnerd-vid.gif)
-
-### Exploring simple game development:
-
-![](https://github.com/RussellWaring/GIFS/blob/main/2dgame.gif)
-
-<br />
-<br />
-
 [linkedin]: https://www.linkedin.com/in/russell-waring-476372a4/
 [instagram]: https://www.instagram.com/russellwaring/
